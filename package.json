@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "Custom Client Launcher
 	"author": "Josh (ilyqt)"
-	"main": "app/main.js",
+	"main": "main.js",
 	"scripts": {
 		"start": "electron .",
 	},
