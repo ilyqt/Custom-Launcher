@@ -1,3 +1,3 @@
-<h3>This will be a custom Minecraft launcher that are similar to Cheatbreaker, PvP Lounge Client, Lunar Client, and Badlion Client.</h3>
+<h3>This will be a custom Minecraft launcher that is similar to Cheatbreaker, PvP Lounge Client, Lunar Client, and Badlion Client.</h3>
 
-I used Electron, Node, HTML, CSS, & JS to make the launcher.
+It is made in Electron, Node, HTML, CSS, & JS to make the launcher.
