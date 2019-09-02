@@ -1,0 +1,19 @@
+{
+	"name": "Custom Launcher
+	"version": "1.0.0",
+	"description": "Custom Client Launcher
+	"author": "Josh (ilyqt)"
+	"main": "app/main.js",
+	"scripts": {
+		"start": "electron .",
+	},
+	"dependencies": {
+		"appdata-path": "^1.0.0",
+		"electron-log": "^3.0.1",
+		"node-machine-id": "^1.1.10",
+		"request": "^2.88.0"
+	},
+	"devDependencies": {
+		"electron": "^6.0.7",
+	},
+}
